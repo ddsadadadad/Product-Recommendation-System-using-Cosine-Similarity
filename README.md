@@ -16,6 +16,10 @@
 - Pandas
 - Scikit-learn
 
+##Установка библиотек
+
+pip install -r requirements.txt
+
 ## Установка
 
 1. Склонируйте репозиторий:
